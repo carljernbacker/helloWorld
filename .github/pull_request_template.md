@@ -1,23 +1,17 @@
-# <Feature Title>
+### All Submissions:
 
-Tracker ID: **_#ADD LINK TO PIVOTAL STORY_**
+* [X] Have you followed the guidelines in our Contributing document?
+* [ ] Have you checked to ensure there aren't other open [Pull Requests](../../../pulls) for the same update/change?
 
-Unit tests completed?: (Y/N)
+<!-- You can erase any parts of this template not applicable to your Pull Request. -->
 
-PR Branch
-**_#ADD LINK TO PR BRANCH_**
+### New Feature Submissions:
 
-Code Coverage & Build Info
-**_#ADD LINK TO JENKINS CONSOLE_**
+1. [ ] Does your submission pass tests?
+2. [ ] Have you lint your code locally prior to submission?
 
-E2E Approved
-**_#ADD LINK TO PASSING E2E TESTS_**
+### Changes to Core Features:
 
-Windows Testing
-**_#HAS WINDOWS BEEN TESTED?_**
-
-Related PR
-**_#ADD ANY RELATED PULL REQUESTS_**
-
-UX Approved
-**_#ADD UX APPROVAL IF NEEDED_**
+* [ ] Have you added an explanation of what your changes do and why you'd like us to include them?
+* [ ] Have you written new tests for your core changes, as applicable?
+* [ ] Have you successfully ran tests with your changes locally?
